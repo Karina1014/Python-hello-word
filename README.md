@@ -25,11 +25,9 @@ This is a simple Python program with a single file, main.py, which runs the desi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-## Prerequisites
+To get a local copy of this project up and running, follow these simple steps.
 
-# Git
-
-## Repositorry
+### Prerequisites
 
 This repository can be cloned from GitHub using this HTTP  [enlace HTTP](https://github.com/Karina1014/Python-hello-world.git). 
 
@@ -38,3 +36,5 @@ Below is the git clone command using SSH instead of HTTP.
 ```sh
 git clone git@github.com:Karina1014/Python-hello-world.git
 ```
+
+
