@@ -28,6 +28,12 @@ This is a simple Python program with a single file, main.py, which runs the desi
 To get a local copy of this project up and running, follow these simple steps.
 
 ### Prerequisites
+Make sure you have Python 3.10 or above installed. You can check your Python version by running the following command in your terminal:
+
+```sh
+python --version
+```
+### Installation
 
 This repository can be cloned from GitHub using this HTTP  [enlace HTTP](https://github.com/Karina1014/Python-hello-world.git). 
 
@@ -36,5 +42,11 @@ Below is the git clone command using SSH instead of HTTP.
 ```sh
 git clone git@github.com:Karina1014/Python-hello-world.git
 ```
+## Running the service
+
+  ```sh
+    python run.py
+   ```
+
 
 
