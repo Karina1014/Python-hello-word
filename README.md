@@ -48,5 +48,26 @@ git clone git@github.com:Karina1014/Python-hello-world.git
     python run.py
    ```
 
+<!-- Docker -->
+## Running with docker
+
+1.- Making Docker Pull or Build docker image
+
+ ```sh
+   docker pull karina1014/hello-word-python:v1.0
+   ```
+
+```sh
+   docker build -t <any-name> .
+   ```
+
+2.- Last make a docker run
+
+ ```sh
+   docker run karina1014/hello-word-python:v1.0 # or any-name
+   ```
+
+
+
 
 
