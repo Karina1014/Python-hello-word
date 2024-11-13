@@ -70,7 +70,7 @@ git clone git@github.com:Karina1014/Python-hello-world.git
 ## Running the service
 
   ```sh
-    python run.py
+    python app.py
    ```
 
 <!-- Docker -->
