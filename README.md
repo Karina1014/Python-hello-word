@@ -1,10 +1,35 @@
 # Python Hello World 🐍🌎
 ![image](https://github.com/user-attachments/assets/c5d4deab-8396-405d-928a-33b649151643)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#running-the-service">Running the Service</a></li>
+    <li><a href="#running-with-docker">Running with Docker</a></li>
+   
+  </ol>
+</details>
 
 
 ## About The Project
 
 This project creates a simple Python program that prints "Hello World" to the screen, demonstrating the setup and successful execution of Python code.
+
 
 ## Overview
 
