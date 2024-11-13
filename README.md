@@ -79,17 +79,14 @@ git clone git@github.com:Karina1014/Python-hello-world.git
 1.- Making Docker Pull or Build docker image
 
  ```sh
-   docker pull karina1014/hello-word-python:v1.0
+   docker pull karina1014/hello-world-flask
    ```
 
-```sh
-   docker build -t <any-name> .
-   ```
 
 2.- Last make a docker run
 
  ```sh
-   docker run karina1014/hello-word-python:v1.0 # or any-name
+   docker run karina1014/hello-word-python
    ```
 
 
