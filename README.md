@@ -45,7 +45,10 @@ This "Hello World" example serves as an introduction to the world of Python prog
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 
-This is a simple Python program with a single file, main.py, which runs the desired code.
+[![Flask](https://img.shields.io/badge/Flask-2.2.2-red?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)](https://flask.palletsprojects.com/)
+
+
+This is a basic Python program consisting of a single file, main.py, which executes the required code.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -53,7 +56,7 @@ This is a simple Python program with a single file, main.py, which runs the desi
 To get a local copy of this project up and running, follow these simple steps.
 
 ### Prerequisites
-Make sure you have Python 3.10 or above installed. You can check your Python version by running the following command in your terminal:
+Make sure you have Python 3.12 or above installed. You can check your Python version by running the following command in your terminal:
 
 ```sh
 python --version
