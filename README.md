@@ -70,26 +70,7 @@ git clone git@github.com:Karina1014/Python-hello-world.git
 ## Running the service
 
   ```sh
-    python app.py
+    python main.py
    ```
-
-<!-- Docker -->
-## Running with docker
-
-1.- Making Docker Pull or Build docker image
-
- ```sh
-   docker pull karina1014/hello-world-flask
-   ```
-
-
-2.- Last make a docker run
-
- ```sh
-   docker run karina1014/hello-word-python
-   ```
-
-
-
 
 
