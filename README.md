@@ -1,6 +1,13 @@
 # Python Hello World 🐍🌎
 ![image](https://github.com/user-attachments/assets/854ed0cd-45aa-4051-b619-d6a10077badb)
 
+## 🚨 Important Notice! 🚨
+
+Please read this carefully before proceeding:
+
+- **Main Branch**: This branch contains the app along with the `Dockerfile` and is uploaded to DockerHub.
+- **ProductionFlask Branch**: This branch contains the deployed version of the app on Render.
+
 ## About The Project
 
 This project creates a simple Python program that prints "Hello World" to the screen, demonstrating the setup and successful execution of Python code.
