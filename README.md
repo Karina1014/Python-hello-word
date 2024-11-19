@@ -7,7 +7,7 @@ This project creates a simple Python program that prints "Hello World" to the sc
 
 ## Built With
 
-[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 
 [![Flask](https://img.shields.io/badge/Flask-2.2.2-red?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)](https://flask.palletsprojects.com/)
@@ -28,9 +28,7 @@ python --version
 ```
 ### Installation
 
-This repository can be cloned from GitHub using this HTTP  [enlace HTTP](https://github.com/Karina1014/Python-hello-world.git). 
-
-Below is the git clone command using SSH instead of HTTP.
+Below is the git clone command using SSH:
 
 ```sh
 git clone git@github.com:Karina1014/Python-hello-world.git
@@ -40,5 +38,34 @@ git clone git@github.com:Karina1014/Python-hello-world.git
   ```sh
     python main.py
    ```
+or
 
+```sh
+pip install -r requirements.txt
+```
+You can now view the message at 
+
+![image](https://github.com/user-attachments/assets/c723c88f-f0e1-4d83-858a-1815711e44be)
+
+## How to Deploy with Render
+
+1. **Create an Account**  
+   Sign up for an account on [Render](https://render.com).
+
+2. **Log in with GitHub**  
+   Use your GitHub credentials to log in to Render.
+
+3. **Prepare Your Project**  
+   Ensure your project is hosted in a GitHub repository.
+
+4. **Deploy Your Application**  
+   - In Render, select **Web Service**.  
+   - Choose your Python project from your GitHub repositories.  
+   - Follow the setup instructions to configure your deployment.
+   - 
+## Results:
+
+You can see the app in this link:
+
+https://python-hello-world-gjp1.onrender.com
 
