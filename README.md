@@ -50,6 +50,12 @@ or
 ```sh
 pip install -r requirements.txt
 ```
+
+To start the application, use the following command:
+
+```bash
+python app.py
+```
 You can now view the message at 
 
 ![image](https://github.com/user-attachments/assets/c723c88f-f0e1-4d83-858a-1815711e44be)
