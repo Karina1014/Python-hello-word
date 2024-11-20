@@ -1,48 +1,20 @@
 # Python Hello World 🐍🌎
-![image](https://github.com/user-attachments/assets/c5d4deab-8396-405d-928a-33b649151643)
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#overview">Overview</a></li>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#running-the-service">Running the Service</a></li>
-    <li><a href="#running-with-docker">Running with Docker</a></li>
-   
-  </ol>
-</details>
+![image](https://github.com/user-attachments/assets/854ed0cd-45aa-4051-b619-d6a10077badb)
 
+## 🚨 Important Notice! 🚨
+
+Please read this carefully before proceeding:
+
+- **Main Branch**: This branch contains the app along with the `Dockerfile` and is uploaded to DockerHub.
+- **ProductionFlask Branch**: This branch contains the deployed version of the app on Render.
 
 ## About The Project
 
 This project creates a simple Python program that prints "Hello World" to the screen, demonstrating the setup and successful execution of Python code.
 
-
-## Overview
-
-This "Hello World" example serves as an introduction to the world of Python programming. It's the first step in any programming language and opens the door to understanding Python's basic syntax and fundamentals.
-
-## Features
-- Simple, clear example for starting out in Python.
-- Basic setup of the programming environment.
-- Execution and testing of Python code.
-
 ## Built With
 
-[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 
 [![Flask](https://img.shields.io/badge/Flask-2.2.2-red?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)](https://flask.palletsprojects.com/)
@@ -63,9 +35,7 @@ python --version
 ```
 ### Installation
 
-This repository can be cloned from GitHub using this HTTP  [enlace HTTP](https://github.com/Karina1014/Python-hello-world.git). 
-
-Below is the git clone command using SSH instead of HTTP.
+Below is the git clone command using SSH:
 
 ```sh
 git clone git@github.com:Karina1014/Python-hello-world.git
@@ -75,5 +45,34 @@ git clone git@github.com:Karina1014/Python-hello-world.git
   ```sh
     python main.py
    ```
+or
 
+```sh
+pip install -r requirements.txt
+```
+You can now view the message at 
+
+![image](https://github.com/user-attachments/assets/c723c88f-f0e1-4d83-858a-1815711e44be)
+
+## How to Deploy with Render
+
+1. **Create an Account**  
+   Sign up for an account on [Render](https://render.com).
+
+2. **Log in with GitHub**  
+   Use your GitHub credentials to log in to Render.
+
+3. **Prepare Your Project**  
+   Ensure your project is hosted in a GitHub repository.
+
+4. **Deploy Your Application**  
+   - In Render, select **Web Service**.  
+   - Choose your Python project from your GitHub repositories.  
+   - Follow the setup instructions to configure your deployment.
+   - 
+## Results:
+
+You can see the app in this link:
+
+https://python-hello-world-gjp1.onrender.com
 
