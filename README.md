@@ -2,13 +2,20 @@
 
 This project creates a simple Python program that prints "Hello World" to the screen, demonstrating the setup and successful execution of Python code.
 
+
+## 🚨 About the Project 🚨  
+This is an important message related to the project. Please read it carefully before proceeding:  
+
+- **main Branch**: Contains the app with the `Dockerfile`, ready to build and uploaded to DockerHub.  
+- **productionFlask Branch**: Contains the deployed version of the app on Render.
+
+  
 ## Getting Started
 * Clone the repository
 
 ```sh
 git clone https://github.com/Karina1014/Python-hello-world.git
 ```
-
 
 ## Prerequisites
 
@@ -17,7 +24,6 @@ Make sure you have Python 3.10 or above installed. You can check your Python ver
 ```sh
 python --version
 ```
-
 
 ## How to run in docker
 ### Pre-requisites
@@ -42,15 +48,7 @@ You can open de VSC and run this :
 ```
 Use this command to confirm that the image is available in your Docker environment.
 
-![image](https://github.com/user-attachments/assets/7c2d23ed-0a01-4d6a-b69a-296014283eba)
-
-## Deploy with Railway
-
-You need to link your Github account.
-
-![image](https://github.com/user-attachments/assets/c5d4deab-8396-405d-928a-33b649151643)
-
-For the project, the practice is done to view the hello world on the console, in this case seeing through the Railway logs.
+![image](https://github.com/user-attachments/assets/e852070f-afa7-45dd-8225-81e5ecdc90d1)
 
 ## Results
 Result:
