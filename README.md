@@ -43,7 +43,7 @@ git clone git@github.com:Karina1014/Python-hello-world.git
 ## Running the service
 
   ```sh
-    python main.py
+   pip install flask 
    ```
 or
 
