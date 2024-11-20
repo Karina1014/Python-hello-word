@@ -54,7 +54,7 @@ pip install -r requirements.txt
 To start the application, use the following command:
 
 ```bash
-python app.py
+python main.py
 ```
 You can now view the message at 
 
